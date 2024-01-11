@@ -1,6 +1,6 @@
 # 🔍 프로젝트
 
-## [WTM](https://velog.io/@hawnbin/WTM-%ED%9A%8C%EA%B3%A0%EB%A1%9D)
+##
 
 <div align="left">
 
